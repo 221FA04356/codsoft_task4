@@ -23,7 +23,7 @@ This is a simple Rock-Paper-Scissors game implemented in Python. The game allows
 
 2. Run the program:
     
-    python rock_paper_scissors.py
+    python rockpaperscissors.py
     
 
 3. Follow the prompts to enter your choice and see the result.
