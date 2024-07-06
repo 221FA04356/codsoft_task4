@@ -19,7 +19,7 @@ This is a simple Rock-Paper-Scissors game implemented in Python. The game allows
    
     git clone https://github.com/221FA04356/codsoft_task4.git
    
-    cd rock-paper-scissors
+    cd rockpaperscissors
 
 2. Run the program:
     
