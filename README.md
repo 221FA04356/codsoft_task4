@@ -17,7 +17,8 @@ This is a simple Rock-Paper-Scissors game implemented in Python. The game allows
 
 1. Clone the repository:
    
-    git clone https://github.com/yourusername/rock-paper-scissors.git
+    git clone https://github.com/221FA04356/codsoft_task4.git
+   
     cd rock-paper-scissors
 
 2. Run the program:
